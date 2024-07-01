@@ -72,3 +72,7 @@ Replace `path/to/junit.jar` and `path/to/junit-platform-console-standalone.jar` 
 - `Direction.java`: Enum for the four directions
 - `RobotSimulator.java`: Main class for processing commands and user interaction
 - `RobotSimulatorTest.java`: JUnit tests for the simulator
+
+# Screenshot for reference
+ ![image](https://github.com/gojevishal/RobotSimulator/assets/133544050/c6c6b435-ef31-4950-a646-f6faa821acb5)
+
